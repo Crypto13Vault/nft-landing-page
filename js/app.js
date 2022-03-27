@@ -1,6 +1,6 @@
 // METAMASK CONNECTION
 const TIMEOUT = 1000;
-const COLLECTION_NAME = 'Lucky13Me';
+const COLLECTION_NAME = 'lucky13me-v2';
 let editions = [];
 let dots = 1;
 
